@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144779345987",
+    "firebase_url": "https://weatherapiwithfirestore.firebaseio.com",
+    "project_id": "weatherapiwithfirestore",
+    "storage_bucket": "weatherapiwithfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144779345987:android:b794296dcc07b925f794f6",
+        "android_client_info": {
+          "package_name": "com.example.weatherapiwithfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144779345987-skbn7kr02ea25om3ul1cvjooir6monj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatherapiwithfirestore",
+            "certificate_hash": "c68d6464261bcff6a38983ec6bbb3ad54b552989"
+          }
+        },
+        {
+          "client_id": "144779345987-5254ole0hbn3ckkt4pfssaietk04t020.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIpLVwx13M8j8IhYJ_IEMKE4nyQ4zVpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144779345987-5254ole0hbn3ckkt4pfssaietk04t020.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
